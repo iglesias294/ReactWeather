@@ -42,12 +42,3 @@ var Nav = React.createClass({
 });
 
 module.exports = Nav;
-
-// var old = (
-//   <div>
-//     <h2>The navbar</h2>
-//     <IndexLink to="/" activeClassName="active" style={{margin: 10}}> Get Weather </IndexLink>
-//     <Link to="/about" activeClassName="active" style={{margin: 10}}> About </Link>
-//     <Link to="/examples" activeClassName="active" style={{margin: 10}}> Examples </Link>
-//   </div>
-// );
