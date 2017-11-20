@@ -12,7 +12,9 @@ var Main = (props) => {
           {props.children}
         </div>
       </div>
-    
+      <br/>
+      <br/>
+    <Footer/>
     </div>
   );
 };

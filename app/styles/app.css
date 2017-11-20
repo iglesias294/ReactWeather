@@ -1,6 +1,9 @@
-.top-bar {
-  background-color: #252525;
+.page-title {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+
 }
+
 
 /* ABOUT PAGE */
 
@@ -165,7 +168,7 @@
 
 /* FOOTER SECTION */
 .marketing-site-footer {
-  background: #2c3840;
+  background: #252525;
   color: #8aa0ae;
   padding: 2rem 0 0;
 }
