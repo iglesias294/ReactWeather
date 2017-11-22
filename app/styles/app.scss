@@ -1,13 +1,15 @@
+$space-large: 2.5rem;
+$kblue: #003da5;
 .page-title {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
+  margin-top: $space-large;
+  margin-bottom: $space-large;
 
 }
 
 
 /* ABOUT PAGE */
 
-@charset "UTF-8";
+
 
 .neat-article-container {
   margin-top: 1.5rem;
